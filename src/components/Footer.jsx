@@ -2,7 +2,7 @@ import React from "react";
 import { Box, Typography } from "@mui/material";
 import { motion } from "framer-motion";
 import { GitHub, Instagram, LinkedIn } from "@mui/icons-material";
-import iconImg from '../assets/icon.png'; 
+import iconImg from '/icon.png'; 
 const Footer = () => {
   return (
     <Box

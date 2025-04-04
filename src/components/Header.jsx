@@ -3,7 +3,7 @@ import { AppBar, Toolbar, IconButton, Button, Drawer, List, ListItem, ListItemTe
 import MenuIcon from "@mui/icons-material/Menu";
 import { motion } from "framer-motion";
 import DownloadIcon from '@mui/icons-material/Download';
-import iconImg from '../assets/icon.png';
+import iconImg from '/icon.png';
 
 const Header = ({ onNavClick, refs }) => {
   const [mobileOpen, setMobileOpen] = useState(false);

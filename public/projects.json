@@ -3,70 +3,70 @@
       "id": 1,
       "title": "Blood Donation",
       "category": "Django",
-      "image": "../src/assets/bloodDonation.png",
+      "image": "/bloodDonation.png",
       "link":"https://github.com/mothish-kumar/bloodDonation.git"
     },
     {
       "id": 2,
       "title": "ChatBot",
       "category": "Django",
-      "image": "../src/assets/chatbot.jpg",
+      "image": "/chatbot.jpg",
       "link":"https://github.com/mothish-kumar/chatbot.git"
     },
     {
       "id": 3,
       "title": "Eden Pharmacy",
       "category": "Next.js",
-      "image": "../src/assets/eden.png",
+      "image": "/eden.png",
       "link":"https://edenpharmacymothish.netlify.app/"
     },
     {
       "id": 4,
       "title": "Fusion Bytes",
       "category": "Php",
-      "image": "../src/assets/fb.png",
+      "image": "/fb.png",
       "link":"https://fusion-bytes.web.app/"
     },
     {
       "id": 5,
       "title": "University Admin",
       "category": "Php",
-      "image": "../src/assets/PUAdmin.png",
+      "image": "/PUAdmin.png",
       "link":" https://github.com/mothish-kumar/PUAdmin.git"
     },
     {
         "id": 6,
         "title": "React Prime",
         "category": "React",
-        "image": "../src/assets/reactPrime.png",
+        "image": "/reactPrime.png",
       "link":"https://jocular-palmier-e07266.netlify.app/"
       },
       {
         "id": 7,
         "title": "Weather App",
         "category": "Django",
-        "image": "../src/assets/weatherApp.png",
+        "image": "/weatherApp.png",
       "link":"https://github.com/Mothish07/WeatherProject.git"
       },
       {
         "id": 8,
         "title": "E-Learning Platform",
         "category": "MERN",
-        "image": "../src/assets/ELMS.png",
+        "image": "/ELMS.png",
         "link":"https://github.com/mothish-kumar/ELMS.git"
        },
        {
         "id":9,
         "title":"Machine Learning Classification",
         "category":"ML",
-        "image":"../src/assets/ml.png",
+        "image":"/ml.png",
         "link":"https://github.com/mothish-kumar/ML-Classification-Project-backend.git"
        },
        {
         "id":10,
         "title":"Metal Foam Project",
         "category":"BlockChain",
-        "image":"../src/assets/metalFoam.png",
+        "image":"/metalFoam.png",
         "link":"https://github.com/mothish-kumar/METAL_FOAM_FRONTEND.git"
        }
   ]
